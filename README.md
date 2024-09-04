@@ -6,5 +6,4 @@ Prompt engineering is defined as iteratively improving a prompt.
 A prompt is an input given to a GenAI (generative AI), such as ChatGPT4.5, Phind, that produces an output.
 
 <b> Good prompting </b>
-Good prompts include the following characteristics:
-| Intructions | Role | Tone | Context | Formatting | Examples |
+Good prompts include the following characteristics: Instruction, Role, Tone, Context, Formatting, Examples
